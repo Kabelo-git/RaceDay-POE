@@ -53,3 +53,6 @@ This project is submitted as academic coursework for assessment purposes.
  
 ## Notes 
 Planning documents finalised before Part 2 implementation begins. 
+ 
+## Repository Structure 
+All planning documents are stored inside the /docs folder. 
