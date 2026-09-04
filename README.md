@@ -46,3 +46,7 @@ A GitHub Actions workflow (`.github/workflows/docs-check.yml`) validates that th
 
 The video covers: the planning documents, the ERD design decisions, the endpoint plan choices, and a live run-through of the SQL script in SSMS.
 
+
+## License
+This project is submitted as academic coursework for assessment purposes.
+
