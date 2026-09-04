@@ -62,3 +62,6 @@ Part 1 planning and database design complete.
  
 ## Database 
 Database schema contains six entities: User, Event, Category, Route, Enrolment, and Result. 
+ 
+## Next Steps 
+Part 2 will implement the RESTful API in C# based on this endpoint plan. 
