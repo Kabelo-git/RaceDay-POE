@@ -91,3 +91,5 @@
  
 ## Notes 
 Endpoint plan reviewed against functional requirements before Part 2. 
+ 
+Response codes follow standard REST conventions: 200 for success, 201 for creation, 204 for deletion, 401/403 for auth failures. 
