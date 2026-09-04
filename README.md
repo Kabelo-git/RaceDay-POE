@@ -59,3 +59,6 @@ All planning documents are stored inside the /docs folder.
  
 ## Status 
 Part 1 planning and database design complete. 
+ 
+## Database 
+Database schema contains six entities: User, Event, Category, Route, Enrolment, and Result. 
