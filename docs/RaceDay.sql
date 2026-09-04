@@ -107,3 +107,4 @@ INSERT INTO Enrolment (ParticipantId, CategoryId, Status) VALUES
 INSERT INTO Result (EnrolmentId, FinishTime, Position) VALUES
 (1, '00:28:15', 12),
 (3, '03:45:20', 5);-- Verified against ERD on final review 
+-- Schema supports both Organiser and Participant roles as per system design 
