@@ -66,7 +66,7 @@ CREATE TABLE Result (
     ResultId INT IDENTITY(1,1) PRIMARY KEY,
     EnrolmentId INT NOT NULL UNIQUE,
     FinishTime TIME NOT NULL,
-    Position INT NULL,
+    Position INT NULL CHECK (Position > 0),
     CONSTRAINT FK_Result_Enrolment FOREIGN KEY (EnrolmentId) REFERENCES Enrolment(EnrolmentId)
 );
 GO
