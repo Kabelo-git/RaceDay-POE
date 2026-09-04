@@ -50,3 +50,6 @@ The video covers: the planning documents, the ERD design decisions, the endpoint
 ## License
 This project is submitted as academic coursework for assessment purposes.
 
+ 
+## Notes 
+Planning documents finalised before Part 2 implementation begins. 
