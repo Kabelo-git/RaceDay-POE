@@ -65,3 +65,6 @@ Database schema contains six entities: User, Event, Category, Route, Enrolment, 
  
 ## Next Steps 
 Part 2 will implement the RESTful API in C# based on this endpoint plan. 
+ 
+## Testing 
+SQL script was executed and verified on a clean SQL Server instance in SSMS. 
