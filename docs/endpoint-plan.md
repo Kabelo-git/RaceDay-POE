@@ -88,3 +88,6 @@
 
 | GET | /api/events/{eventId}/results | View all results for an event | Organiser | None | 200 OK, array of results |
 
+ 
+## Notes 
+Endpoint plan reviewed against functional requirements before Part 2. 
