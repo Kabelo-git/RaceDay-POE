@@ -56,3 +56,6 @@ Planning documents finalised before Part 2 implementation begins.
  
 ## Repository Structure 
 All planning documents are stored inside the /docs folder. 
+ 
+## Status 
+Part 1 planning and database design complete. 
