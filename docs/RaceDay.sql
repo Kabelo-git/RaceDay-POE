@@ -109,3 +109,4 @@ INSERT INTO Result (EnrolmentId, FinishTime, Position) VALUES
 (3, '03:45:20', 5);-- Verified against ERD on final review 
 -- Schema supports both Organiser and Participant roles as per system design 
 -- All foreign keys enforce referential integrity across entities 
+-- Seed data includes realistic South African event names and locations 
